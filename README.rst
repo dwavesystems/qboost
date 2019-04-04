@@ -1,3 +1,6 @@
+**WARNING**: This repository is obsolete. The Qboost demo is now maintained in
+`dwavesystems/demos <https://github.com/dwavesystems/demos/tree/master/qboost>`_.
+
 Demo of Qboost
 ==============
 
